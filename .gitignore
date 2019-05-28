@@ -1,0 +1,6 @@
+.DS_Store
+/node_modules
+/server/log/*.log.*
+/server/data/*.*
+/server/data/journal
+/client/src/build/*.*
