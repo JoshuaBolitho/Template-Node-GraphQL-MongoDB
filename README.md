@@ -1,6 +1,6 @@
 
-# Rocket Demo
-Demo application built on MongoDB, Node, GraphQL, Express, and ES6 syntax. Database forks to project directory when using NPM scripts.
+# Template for building web applications
+Built on GraphQL, MongoDB, Node, and Express for client communication. Server and client structure, module imports, and syntax are identical. Database forks to project directory when using NPM scripts.
 
 
 ## Installation
